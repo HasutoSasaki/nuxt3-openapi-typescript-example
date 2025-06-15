@@ -2,14 +2,14 @@
 
 Example project demonstrating how to use [openapi-typescript](https://openapi-ts.dev/) and [openapi-fetch](https://openapi-ts.dev/openapi-fetch/) with [Nuxt3](https://nuxt.com/).
 
-## Features
+## ✨ Features
 
 - 🚀 Type-safe API client with openapi-fetch
 - 📝 Automatic TypeScript types generation from OpenAPI schemas
 - ⚡ Nuxt3 with Vue 3 Composition API
 - 🔧 TypeScript support
 
-## Setup
+## 🛠️ Setup
 
 ```bash
 # Install dependencies
@@ -24,7 +24,7 @@ pnpm run dev
 
 You'll see the server running at `localhost:3000`
 
-## Scripts
+## 📜 Scripts
 
 ```bash
 # Development
@@ -40,10 +40,10 @@ pnpm run generate:types
 pnpm run type-check
 ```
 
-## Usage
+## 💡 Usage
 
 The project demonstrates type-safe API calls using openapi-fetch with automatically generated TypeScript types from OpenAPI schemas.
 
-## License
+## 📄 License
 
 MIT
