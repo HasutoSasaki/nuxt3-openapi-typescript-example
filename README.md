@@ -44,6 +44,10 @@ pnpm run type-check
 
 The project demonstrates type-safe API calls using openapi-fetch with automatically generated TypeScript types from OpenAPI schemas.
 
+## 🤝 Contributing
+
+We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING.md) before submitting PRs.
+
 ## 📄 License
 
 MIT
